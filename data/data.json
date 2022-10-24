@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "image": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357__480.jpg",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Sayeman Beach Resort",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/83/8f/6f/sayeman-beach-resort.jpg",
+        "price": "11,511",
+        "ratings": "4.5"
+      },
+      {
+        "id": 2,
+        "name": "Long Beach Hotel Cox's Bazar",
+        "img": "https://images.trvl-media.com/lodging/11000000/10220000/10215800/10215706/eee0755d.jpg?impolicy=resizecrop&rw=670&ra=fit",
+        "price": "5,585",
+        "ratings": "4.3"
+      },
+      {
+        "id": 3,
+        "name": "Hotel Sea Cox",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220741503.jpg?k=fa0f687a125df8b08811fa504aec6a1108abb554c134ea726c0834f2e8bbf90e&o=&hp=1",
+        "price": "2,423",
+        "ratings": "3.9"
+      },
+      {
+        "id": 4,
+        "name": "Hotel Sea Shine",
+        "img": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/283183777.jpg?k=b9917a38d5b9cfb6149ae84ba04e4c87350cebee2a268d0d9c48c2827c305877&o=",
+        "price": "1,083",
+        "ratings": "3.4"
+      },
+      {
+        "id": 5,
+        "name": "Seagull Hotel",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/19/14/1a/birds-eye-view.jpg",
+        "price": "10,065",
+        "ratings": "4.2"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Maldives",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1385200295_20200127103312.jpg",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Arena Beach Hotel Maafushi",
+        "img": "https://traveltradejournal.com/wp-content/uploads/2022/09/Arena-Beach-Hotel.jpg",
+        "price": "9,558",
+        "ratings": "4.4"
+      },
+      {
+        "id": 2,
+        "name": "VIVA Beach & Spa MALDIVES",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPq9aJAD5PQolgSDF__wAm1RUSo_kTMCNGGdpnk=w253-h189-k-no",
+        "price": "7,712",
+        "ratings": "5.0"
+      },
+      {
+        "id": 3,
+        "name": "Gili Lankanfushi Maldives",
+        "img": "https://www.triptaptoe.com/getaways/wp-content/uploads/2016/10/zGili_Lankanfushi_Maldives_011.jpg",
+        "price": "238,164",
+        "ratings": "4.8"
+      },
+      {
+        "id": 4,
+        "name": "Taj Exotica Resort & Spa, Maldives",
+        "img": "https://www.xoprivate.com/wp-content/uploads/2015/09/Taj-Exotica-Resort-Spa-One-Bedroom-Deluxe-Beach-Villa-Suite-With-Pool-1200x800-1.jpg",
+        "price": "88,695",
+        "ratings": "4.6"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Havelock island",
+    "image": "https://thumbs.dreamstime.com/b/beach-no-5-havelock-island-andaman-islands-ind-9308823.jpg",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Havelock Island Beach Resort",
+        "img": "https://images.thrillophilia.com/image/upload/s--x2HNVhvS--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/264/517/original/1589547146_havelock-island-beach_(1).jpg.jpg?1589547145",
+        "price": "8,381",
+        "ratings": "4.3"
+      },
+      {
+        "id": 2,
+        "name": "Symphony Palms Beach Resort",
+        "img": "https://img.lifeisoutside.com/getaways/2113/featured/microsite.jpg",
+        "price": "8,215",
+        "ratings": "3.9"
+      },
+      {
+        "id": 3,
+        "name": "Taj Exotica Resort & Spa, Andamans",
+        "img": "http://www.hospitalityrise.com/wp-content/uploads/2017/03/Taj-Exotica-Resort-Spa-Andamans.png",
+        "price": "57,217",
+        "ratings": "4.6"
+      },
+      {
+        "id": 4,
+        "name": "Barefoot at Havelock",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289677735.jpg?k=8b9eb52329fa7a546cc65a7fdb7e99d2cb1e7b5112dc147ed1ecfb204a7cf2de&o=&hp=1",
+        "price": "11,679",
+        "ratings": "4.5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Stay In Mykonos",
+    "image": "https://www.chasingthedonkey.com/wp-content/uploads/2020/05/Greece-Travel-Blog_Where-to-Stay-In-Myknonos-Greece_Mykonos-Blu-Grecotel-Exclusive-Resort.jpg",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Akkadian Boutique Hotel",
+        "img": "https://www.akkadianmykonos.com/sites/default/files/2022-08/24.jpg",
+        "price": "11,189",
+        "ratings": "4.2"
+      },
+      {
+        "id": 2,
+        "name": "Tharroe of Mykonos Hotel",
+        "img": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2009/11667/11667_0_tharroeofmykonos_fsa-g.jpg",
+        "price": "23,525",
+        "ratings": "4.2"
+      },
+      {
+        "id": 3,
+        "name": "Cova Suites Mykonos",
+        "img": "https://www.covamykonos.com/images/home/cova-mykonos-suites.jpg",
+        "price": "9,749",
+        "ratings": "3.9"
+      },
+      {
+        "id": 4,
+        "name": "Myconian Korali Relais & Châteaux",
+        "img": "https://cdn.webhotelier.net/photos/w=1920/myckorali-oria/L242850.jpg",
+        "price": "15,568",
+        "ratings": "4.8"
+      }
+    ]
+  }
+]
